@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Geo Testing</string>
+    <string name="title_activity_maps">Geo Map Test</string>
+    <string name="map_key">AIzaSyDMMfAh8OiXTEf4lLbKfmOqSGEbSXjkNV0</string>
+</resources>
